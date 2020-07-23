@@ -8,7 +8,7 @@
     "apollo-boost": "^0.4.4",
     "graphql": "^14.5.3",
     "handlebars": "^4.7.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.9.0",
     "react-apollo": "^3.0.1",
     "react-dom": "^16.9.0",
