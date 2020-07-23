@@ -22,6 +22,7 @@ function BookDetails(props) {
 
   const displayBookDetails = () => {
     const { book } = data;
+    console.log(book);
     if (book) {
       return (
         <div>
